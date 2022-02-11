@@ -1,5 +1,5 @@
-## Neil DeWakar - ReadMe
-Business IT & GRC Specialist working at GitHub!
+## Introduction
+Hello! 👋 Welcome to my GitHub profile! My name is Neil Dewakar, and I am a GRC Technical Risk Analyst working at GitHub!
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25" height="25"/>
 
 <div id="badges">
