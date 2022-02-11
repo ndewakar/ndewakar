@@ -11,11 +11,11 @@ My Name is Neil DeWakar, and I'm a Business IT & GRC specialist working in the t
 
 ## Repo Roadmap
 
-- [ ] Learn basic Markdwon
-- [ ] Learn Python
+- [x] Learn basic Markdwon
 - [ ] Learn to utilize PRs effectively
-- [ ] Learn to utilize Issues
+- [x] Learn to utilize Issues
 - [ ] Create Actions!
+- [ ] Learn Python
 
 | Markdown | Python | Pull Requests | Issues | Actions |
 |----------|--------|---------------|--------|---------|
@@ -26,8 +26,13 @@ My Name is Neil DeWakar, and I'm a Business IT & GRC specialist working in the t
 
 A [Basic Markdown Information](https://en.wikipedia.org/wiki/Markdown)
 
+Comfort Level: 8.5/10
+Understand the basic of markdown and feel confident to be able to communicate using MD 
+
 ## Python 🐍
 
 ## Pull Requests 
+Comfort Level /10
 
 ## Issues/Actions
+Comfort Level /10
