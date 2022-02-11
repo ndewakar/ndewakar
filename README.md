@@ -14,9 +14,11 @@ Some of my passions include:
 - Reading 📖 (Love historical fiction, learning from the past) 
 - Gaming 🎮 (Currently love playing Apex Legends!)
 - Sports 🏈 ⚾ ⚽ (Really have gotten in baseball in the last few years (Love the stats involved))
-- 
 
 ## Repo Roadmap
 
 - [x] Read my About me Section
+
+## Working at GitHub 
+- Learning GitHub People, Product and Processes!
 
