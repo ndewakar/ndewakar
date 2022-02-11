@@ -15,7 +15,7 @@ Some of my passions include:
 - Meeting People 🤝 (Everyone has a story thats unique!)
 - Reading 📖 (Love historical fiction, learning from the past) 
 - Gaming 🎮 (Currently love playing Apex Legends!)
-- Sports 🏈 ⚾ ⚽ (Really have gotten in baseball in the last few years (Love the stats involved))
+- Sports 🏈 ⚾ ⚽ (Really have gotten into baseball (Love the stats involved))
 
 
 
