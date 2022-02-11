@@ -1,5 +1,6 @@
 ## Neil DeWakar - ReadMe
 Business IT & GRC Specialist working at GitHub!
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25" height="25"/>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/neil-dewakar-785233113/">
@@ -21,5 +22,5 @@ Some of my passions include:
 
 - [x] Read my About me Section
 - [x] Learning GitHub
+<img src="https://media.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy.gif" width="150" height="150"/>
 
-![Learning GitHub](https://media.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy.gif)
