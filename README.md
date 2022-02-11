@@ -1,5 +1,5 @@
 ## ND ReadMe
-Business IT & GRC specialist working in the tech industry! Excited to learn everything Github, and further my skills and experience!
+Business IT & GRC Specialist working at GitHub!
 <div id="badges">
   <a href="https://www.linkedin.com/in/neil-dewakar-785233113/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=red" alt="LinkedIn Badge"/>
