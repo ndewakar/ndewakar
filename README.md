@@ -1,4 +1,4 @@
-## ND ReadMe
+## Neil DeWakar's ReadMe
 Business IT & GRC Specialist working at GitHub!
 <div id="badges">
   <a href="https://www.linkedin.com/in/neil-dewakar-785233113/">
