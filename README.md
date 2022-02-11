@@ -10,7 +10,7 @@ Business IT & GRC Specialist working at GitHub!
 
 ## About me! 😄
 Some of my passions include:
-- Learning 🧑‍💻 (Skills, Technologies, Best Practices and People)
+- Learning 🧑‍💻 (Skills, Technologies, Best Practices, Life Hacks!)
 - Meeting new People (Everyone has a story thats unique and can be learned from)
 - Reading 📖 (Love historical fiction, learning from the past) 
 - Gaming 🎮 (Currently love playing Apex Legends!)
