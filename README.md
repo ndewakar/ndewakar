@@ -20,7 +20,5 @@ Some of my passions include:
 
 ## Repo Roadmap
 
-- [x] Read my About me Section
-- [x] Learning GitHub
-<img src="https://media.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy.gif" width="150" height="150"/>
+- [x] Learning GitHub <img src="https://media.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy.gif" width="100" height="100"/>
 
