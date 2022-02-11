@@ -7,7 +7,13 @@ Business IT & GRC specialist working in the tech industry! Excited to learn ever
 </div>
 
 ## About me! 😄
-
+Some of my passions include:
+- Learning 🧑‍💻 (Skills, Technologies, Best Practices and People)
+- Meeting new People (Everyone has a story thats unique and can be learned from)
+- Reading 📖 (Love historical fiction, learning from the past) 
+- Gaming 🎮 (Currently love playing Apex Legends!)
+- Sports 🏈 ⚾ ⚽ (Really have gotten in baseball in the last few years (Love the stats involved))
+- 
 
 ## Repo Roadmap
 
