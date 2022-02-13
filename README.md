@@ -11,11 +11,11 @@ Hello! 👋 Welcome to my Profile! My name is Neil Dewakar, and I am a GRC Techn
 
 ## About me 
 Some of my passions include:
-- Learning 🧑‍💻 (Skills, Technologies, Best Practices, Life Hacks!)
-- Meeting People 🤝 (Everyone has a story thats unique!)
-- Reading 📖 (Love historical fiction, learning from the past) 
-- Gaming 🎮 (Currently love playing Apex Legends!)
-- Sports 🏈 ⚾ ⚽ (Really have gotten into baseball - love the analytics involved)
+- Learning 🖥️
+- Meeting People 🤝 
+- Reading 📖 
+- Gaming 🎮 
+- Sports 🏈 ⚾ ⚽(Hail to the Commanders, Nationals)
 
 
 
