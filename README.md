@@ -5,8 +5,7 @@ I am Currently working at GitHub as a GRC Technical Risk Analyst, learning the d
 
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40" height="40"/> 
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/neil-dewakar-785233113/">
+<div id="badges"> <a href="https://www.linkedin.com/in/neil-dewakar-785233113/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=red" alt="LinkedIn Badge"/>
   </a>
 </div>
