@@ -1,12 +1,12 @@
 
-Hello! 👋  My name is Neil Dewakar. I am a brother, son and friend - Passionate about continuous self-improvement, so that I can best help and collaborate with others. I am always looking for new experiences, challenges and ideas to push my boundaries, and I hope my profile can do the same for you.
+Hello! 👋 I'm Neil Dewakar. Passionate about continuous self-improvement, so that I can best help and collaborate with others. I am always looking for new experiences, challenges and ideas to push my boundaries. 
 
-<div id="badges"> <a href="https://www.linkedin.com/in/neil-dewakar-785233113/">
+Find me on LinkedIn: <div id="badges"> <a href="https://www.linkedin.com/in/neil-dewakar-785233113/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=red" alt="LinkedIn Badge"/>
   </a>
 </div>
 
-I am Currently working at GitHub as a GRC Technical Risk Analyst, learning the depths of technology security and improving my skills on the worlds best development platform.  
+Currently working at GitHub as a GRC Technical Risk Analyst, learning the depths of technology security and improving my skills on the worlds best development platform.  
 
 
 When I am not working, some of my hobbies include:
