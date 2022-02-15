@@ -1,7 +1,5 @@
 
-Hello! 👋 Welcome to my Profile! My name is Neil Dewakar, and I am a GRC Technical Risk Analyst working at GitHub!
-
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40" height="40"/> 
+Hello! 👋 Welcome to my Profile! My name is Neil Dewakar, and I am a GRC Technical Risk Analyst working at GitHub! <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40" height="40"/> 
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/neil-dewakar-785233113/">
