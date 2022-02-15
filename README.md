@@ -11,7 +11,7 @@ Currently working at GitHub as a GRC Technical Risk Analyst, learning the depths
 
 When I am not working, some of my hobbies include:
 - Curiosity 🖥️ Staying on top of the newest trends in technology, business and self development
-- Reading 📖 Love Historical Fiction
+- Reading 📖 currently: The Power of Who - Bob Beaudine
 - Meeting People 🤝 Everyone has a unique expereience that can be learned from!
 - Sports & Fitness 🏈 ⚽ ⚾ Love staying active, and keeping up with pro and college sports (DC fan)
 - Gaming 🎮 My go-to relaxation activity
