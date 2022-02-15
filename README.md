@@ -14,7 +14,7 @@ When I am not working, some of my hobbies include:
 - Reading 📖 currently: The Power of Who - Bob Beaudine
 - Meeting People 🤝 Everyone has a unique expereience that can be learned from!
 - Sports & Fitness 🏈 ⚽ ⚾ Love staying active, and keeping up with pro and college sports (DC fan)
-- Gaming 🎮 My go-to relaxation activity
+- Gaming 🎮 currently: Apex Legends, Lost Ark
 
 
 
