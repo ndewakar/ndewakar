@@ -6,6 +6,7 @@ GRC Technical Risk Analyst, learning the depths of technology security and impro
 
 When I am not working, some of my favorite hobbies include:
 - Reading 📖 
+- Music 🎵
 - Traveling ✈️
 - Sports & Fitness 🏈 ⚽ ⚾ 
 - Gaming 🎮 
