@@ -5,10 +5,9 @@ Currently working at GitHub as a GRC Technical Risk Analyst, learning the depths
 
 
 When I am not working, some of my favorite hobbies include:
-- Learning 🖥️ Staying on top of the newest trends in technology, business and self development
-- Reading 📖 currently: The Power of Who - Bob Beaudine
-- Meeting People 🤝 Everyone has a unique expereience that can be learned from!
-- Sports & Fitness 🏈 ⚽ ⚾ Love staying active, post-work walks and keeping up with pro and college sports (DC fan)
+- Reading 📖 just finished: The Power of Who - Bob Beaudine
+- Meeting People 🤝 Everyone has a unique expereience and story
+- Sports & Fitness 🏈 ⚽ ⚾ Love staying active, walking and keeping up with pro and college sports (DC fan)
 - Gaming 🎮 currently: Apex Legends, Lost Ark
 
 Connect with me on LinkedIn: <div id="badges"> <a href="https://www.linkedin.com/in/neil-dewakar-785233113/">
