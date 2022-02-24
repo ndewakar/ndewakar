@@ -7,9 +7,3 @@ Connect with me on LinkedIn: <div id="badges"> <a href="https://www.linkedin.com
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=red" alt="LinkedIn Badge"/>
   </a>
 </div>
-
-
-## Repo Roadmap
-
-- [x] [Learning GitHub](https://github.com/ndewakar/Learning-GH) <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40" height="40"/> 
-
